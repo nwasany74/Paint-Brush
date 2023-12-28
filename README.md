@@ -1,3 +1,4 @@
+
 PaintBrush
 This is a simple drawing application named "PaintBrush" implemented in Java as an Applet. The project allows users to draw various shapes, including rectangles, ovals, lines, erasers, and freehand pencil sketches. It provides options to choose different colors, fill shapes, use dotted strokes, and undo/redo drawing actions.
 
@@ -26,3 +27,10 @@ The project is implemented as an Applet with event-driven programming for user i
 The drawing application allows for creating and manipulating geometric shapes using Java's graphics capabilities.
 Note: Applets are deprecated in modern Java, and this project is presented for educational purposes.
 Feel free to explore, modify, and enhance this drawing application!
+
+How to run 
+1)open notepad or notepad ++ for visualization
+2)paste code save the java file and html file in same place with the same name
+3)open cmd write javac filename.java
+4)appletviewer filename.html
+5)the applet open and you can use the project
